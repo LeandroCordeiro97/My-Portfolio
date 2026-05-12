@@ -14,7 +14,7 @@ Welcome! This is my personal corner on the web where I showcase my journey as a 
 *   **Vibe:** Professional yet empathetic.
 
 ### 💡 My Philosophy
-> "Empatia é a capacidade psicológica para se identificar com o eu de outro, conseguindo sentir o mesmo que este sente nas situações e circunstâncias por esse outro vivenciadas."
+
 
 I believe in **empathy, compassion, and solidarity**. For me, coding isn't just about logic—it's about stopping, looking, listening, and growing to turn empathy into reality through software.
 
