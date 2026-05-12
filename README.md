@@ -1,4 +1,4 @@
-🚀 My Personal Portfolio
+🚀 My Personal Portfolio<br>
 Welcome! This is my personal corner on the web where I showcase my journey as a developer. Built with a "keep it simple" mindset using just HTML, CSS, and JavaScript.
 
 ✨ What's inside?
